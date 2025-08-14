@@ -1,6 +1,6 @@
 # JC-Exploring-Cadet-Training-Module
 
-**Student Name:** Kayneuriel Rodrigo
+**Student Name:** Kayne Uriel Rodrigo
 
 ## Project Overview
 This repository contains the implementation of a Java-based drone control system demonstrating inheritance and interfaces concepts. The project creates a flexible, modular system for managing different types of unmanned aerial drones with various capabilities.
